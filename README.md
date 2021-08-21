@@ -8,3 +8,4 @@ Links to my GitLab projects
 - [`cute-c2-hs`](https://gitlab.com/macaroni.dev/cute-c2-hs) - Haskell FFI bindings to `cute_c2`, a single-header C collision detection library.
 - [`cute-sound-hs`](https://gitlab.com/macaroni.dev/cute-sound-hs) - Haskell FFI bindings to `cute_sound`, a single-header C audio library.
 - [`gamedev-scratch`](https://gitlab.com/macaroni.dev/gamedev-scratch) - Multiple Ludum Dare game jam entries
+- [`slippi-netplay-nix`](https://gitlab.com/ramirez7/slippi-netplay-nix) - A constantly-updated Nix derivation for the Slippi fork of the Dolphin emulator (used to play Super Smash Bros Melee online.)
