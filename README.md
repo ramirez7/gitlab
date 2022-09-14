@@ -10,6 +10,9 @@ Links to my GitLab projects
 - [`macaroni.nix`](https://gitlab.com/macaroni.dev/macaroni.nix) - Nix overlays atop `haskell.nix` to make cross-compiling Haskell games to Windows Just Work.
 
 ## Game Develoment
+
+My wife and I work as a two-person game development studio.
+
 - [`gamedev-scratch`](https://gitlab.com/macaroni.dev/gamedev-scratch) - Multiple Ludum Dare game jam entries (built with Haskell)
   - [*Echoes of Ouroboros*, a loopy puzzle game. Built in 72 hours for Ludum Dare 47 (Theme: "Stuck in a Loop")](https://ldjam.com/events/ludum-dare/47/echoes-of-ouroboros)
   - [*I'm Definitely Not Scared of My Own Basement*, an unconventional rail shooter. Built in 72 hours for Ludum Dare 48 (Theme: "Deeper and Deeper")](https://ldjam.com/events/ludum-dare/48/im-definitely-not-scared-of-my-own-basement)
