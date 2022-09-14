@@ -9,7 +9,7 @@ Links to my GitLab projects
 - [`cute-sound-hs`](https://gitlab.com/macaroni.dev/cute-sound-hs) - Haskell FFI bindings to `cute_sound`, a single-header C audio library.
 - [`macaroni.nix`](https://gitlab.com/macaroni.dev/macaroni.nix) - Nix overlays atop `haskell.nix` to make cross-compiling Haskell games to Windows Just Work.
 
-## Game Develoment
+## Game Development
 
 My wife and I work as a two-person game development studio.
 
