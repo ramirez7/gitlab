@@ -19,6 +19,8 @@ My wife and I work as a two-person game development studio.
 - In a private repository, there are also other Ludum Dare games:
     - [*Nuclear Puzzle Defense*, a puzzle game/shmup mashup. Built in 72 hours for Ludum Dare 49 (Theme: "Unstable")](https://ldjam.com/events/ludum-dare/49/nuclear-puzzle-defense)
     - [*BOULDER*, an infinite ~runner~ rock-rolling game starring Sisyphus. Built in 72 hours for Ludum Dare 50 (Theme: "Delay the Inevitable")](https://ldjam.com/events/ludum-dare/50/BOULDER)
+    - [*Alien Cattle Rustlers*, a game where you herd cows in a UFO. Built in 72 hours for Ludum Dare 51 (Theme: "Every 10 Seconds")](https://ldjam.com/events/ludum-dare/51/alien-cattle-rustlers)
+      - Features novel controls for emulating an analog stick using a mouse.
 
 ## Experiments/Abandoned Projects
 - [`slippi-netplay-nix`](https://gitlab.com/ramirez7/slippi-netplay-nix) - A now-defunct Nix derivation for the Slippi fork of the Dolphin emulator (used to play Super Smash Bros Melee online.)
