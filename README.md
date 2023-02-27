@@ -1,6 +1,9 @@
 # gitlab
 Links to my GitLab projects
 
+- [Personal GitLab profile](https://gitlab.com/users/ramirez7/projects)
+- [macaroni.dev (my indie gamedev studio) GitLab profile](https://gitlab.com/macaroni.dev)
+
 ## Open Source Work
 - [`sdl-gpu-hs`](https://gitlab.com/macaroni.dev/sdl-gpu-hs) - Haskell FFI bindings for the `sdl-gpu` C 2D graphics library. 
   - Within it is [`memorable`](https://gitlab.com/macaroni.dev/sdl-gpu-hs/-/blob/master/src/Memorable.hs), a WIP library for zero-alloc FFI. And eventually, manually-managed, off-heap, type-safe Haskell data structures.
